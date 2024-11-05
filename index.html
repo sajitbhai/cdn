@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>iNDi Flix</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+        .container {
+            text-align: center;
+            width: 100%;
+            max-width: 800px;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            border-radius: 10px;
+            box-sizing: border-box;
+            margin: 20px;
+        }
+        .title {
+            font-size: 24px;
+            font-weight: bold;
+            animation: slidein 1s forwards;
+            margin: 0;
+            color: #333333;
+        }
+        @keyframes slidein {
+            from {
+                margin-top: -50px;
+                opacity: 0;
+            }
+            to {
+                margin-top: 0;
+                opacity: 1;
+            }
+        }
+        .logo {
+            display: block;
+            margin: 10px auto 20px;
+            max-width: 150px;
+            width: 100%;
+            height: auto;
+        }
+        .video-container {
+            position: relative;
+            padding-top: 56.25%;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        video {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border-radius: 10px;
+        }
+        .telegram-btn {
+            margin-top: 20px;
+        }
+        .telegram-btn a {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #0088cc;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+        .telegram-btn a:hover {
+            background-color: #005580;
+            transform: translateY(-2px);
+        }
+
+        /* Desktop monitors: 1280×720 to 1920×1080 */
+        @media (min-width: 1280px) {
+            .container {
+                max-width: 70%;
+                padding: 30px;
+            }
+            .title {
+                font-size: 28px;
+            }
+            .telegram-btn a {
+                padding: 12px 24px;
+            }
+        }
+
+        /* Tablets: 601×962 to 1280×800 */
+        @media (min-width: 601px) and (max-width: 1280px) {
+            .container {
+                max-width: 90%;
+                padding: 20px;
+            }
+            .title {
+                font-size: 24px;
+            }
+            .telegram-btn a {
+                padding: 10px 20px;
+            }
+        }
+
+        /* Mobile devices: 360×640 to 414×896 */
+        @media (max-width: 600px) {
+            .container {
+                max-width: 95%;
+                padding: 15px;
+            }
+            .title {
+                font-size: 20px;
+            }
+            .telegram-btn a {
+                padding: 8px 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title">Indi Flix Live</div>
+        <img class="logo" src="https://i.ibb.co/fGxsQPy/indi-Flix-logo.png" alt="Logo">
+        <div class="video-container">
+            <video controls>
+                <source src="https://hotflixbd.online/tsports/tracks-v1a1/mono.m3u8" type="application/x-mpegURL">
+                Your browser does not support the video tag.
+            </video>
+        </div>
+        <div class="telegram-btn">
+            <a href="https://t.me/indiFlixofficial" target="_blank">Join Our Telegram</a>
+        </div>
+    </div>
+</body>
+</html>
