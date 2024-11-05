@@ -9,24 +9,24 @@ http://103.205.133.71/LiveEvent3/index.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50dpQDQ5/20240823_024742.png"group-title="𝐈𝐬𝐥𝐚𝐦𝐢𝐜",𝙋𝙚𝙖𝙘𝙚 𝙏𝙫 𝘽𝙖𝙣𝙜𝙡𝙖
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdB5x35s/Peace-Tv-Bangla.jpg"group-title="𝐈𝐬𝐥𝐚𝐦𝐢𝐜",𝙋𝙚𝙖𝙘𝙚 𝙏𝙫 𝘽𝙖𝙣𝙜𝙡𝙖
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="𝐈𝐬𝐥𝐚𝐦𝐢𝐜" tvg-logo="https://i.postimg.cc/W4JX3szb/20240823_024759.png",𝙄𝙎𝙇𝘼𝙈 𝘽𝙖𝙣𝙜𝙡𝙖
+#EXTINF:-1 group-title="𝐈𝐬𝐥𝐚𝐦𝐢𝐜" tvg-logo="https://i.postimg.cc/L5n9RjFY/islambangla.jpg",𝙄𝙎𝙇𝘼𝙈 𝘽𝙖𝙣𝙜𝙡𝙖
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85R4RwL2/20240823_024819.png" group-title="𝐈𝐬𝐥𝐚𝐦𝐢𝐜", 𝙄𝙌𝙍𝘼 𝘽𝘼𝙉𝙂𝙇𝘼
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDnnv8GZ/iqra-tv.jpg" group-title="𝐈𝐬𝐥𝐚𝐦𝐢𝐜", 𝙄𝙌𝙍𝘼 𝘽𝘼𝙉𝙂𝙇𝘼
 https://pull-cdnw.anystream.uk/live/2da6b413018e100097c37f4200000000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4vmTQ1v/20240825_062210.png"group-title="𝐈𝐬𝐥𝐚𝐦𝐢𝐜",𝘿𝙀𝙀𝙉 𝙏𝙑
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2V7K9fD/20240822-230750.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",𝙅𝙖𝙢𝙪𝙣𝙖 𝙏𝙑
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBNF4jfh/jamuna-tv.jpg" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",𝙅𝙖𝙢𝙪𝙣𝙖 𝙏𝙑
 http://103.205.133.71/JamunaTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnBz3S8W/20240822-230603.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",𝙀𝙠𝙖𝙩𝙩𝙤𝙧 𝙏𝙑 𝙃𝘿
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRgpmnQz/ekattor-TV.jpg" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",𝙀𝙠𝙖𝙩𝙩𝙤𝙧 𝙏𝙑 𝙃𝘿
 http://103.205.133.71/EkattorFHD/index.m3u8
-#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢"tvg-logo="https://i.postimg.cc/0ys4hMyd/20240822-230446.png",𝘾𝙝𝙖𝙣𝙣𝙚𝙡 24
+#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢"tvg-logo="https://i.postimg.cc/sD0cVhbY/c24.jpg",𝘾𝙝𝙖𝙣𝙣𝙚𝙡 24
 http://103.205.133.71/Channel23HD/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/wB9kQDTZ/20240822-225812.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",𝙈𝙔 𝙏𝙑
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/pLhBydtg/mytv.jpg" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",𝙈𝙔 𝙏𝙑
 https://mytvbangla.com/0.m3u8
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢"tvg-logo="https://i.postimg.cc/fy1KcFJf/20240822-225533.png",𝙍 𝙏𝙑
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
