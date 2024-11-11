@@ -3,19 +3,22 @@
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEbuw9yTlIkMWuk2QgvXZh67qhEBNZ-vot9Ar_uj4LIxb_25IMDbv8QvE&s=10" , Somoy Tv
-https://mhdtvplay.com/bdcast/hls/cdn_ytl.m3u8?id=75e31521b02ff5ba619dd483da3aae42
+https://mhdtvplay.com/bdcast/hls/index.m3u8?id=4ed08af5&e=.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://cdn6.aptoide.com/imgs/0/9/c/09c01e7560f18eee5732a88b877b7793_icon.png" , Jamuna Tv
-https://mhdtvplay.com/bdcast/hls/cdn_ytl.m3u8?id=4193bcd7b265abbc12edbdc7bd19469b
+https://mhdtvplay.com/bdcast/hls/index.m3u8?id=89b4zb3d&e=.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://yt3.googleusercontent.com/5J5NFuXWxr4iUv3nxWF0genblTzZ8wU5N9NjxvZdOKkGs1U3Y_KqrojCJ5Id4N9pFeIZ3uyCKkk=s900-c-k-c0x00ffffff-no-rj" , Independent Tv
-https://mhdtvplay.com/bdcast/hls/cdn_ytl.m3u8?id=3b6ef7a9919b7a66f4cc8991d5caa53d2e1e3dd307ab3d4ae7d4a0d809837b6f
+https://mhdtvplay.com/bdcast/hls/index.m3u8?id=sllfd45v&e=.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://yt3.googleusercontent.com/yiwgcUPfyYf8V4c-qsVZPhapgorrsakHepeho14DhgoofFz3VuRP09wnSwL0yVVNejxzzWzCyA=s176-c-k-c0x00ffffff-no-rj-mo" , Sa Tv
-https://mhdtvplay.com/bdcast/hls/cdn_mcast.m3u8?id=d2afce6b5fd672a2d7247184681097514dc8ec62a0db226e947ab82aa2ff87549091beeeb1e5c37653f79434725f165359783834350e9f95cf914708ff818575
+https://mhdtvplay.com/bdcast/hls/index.m3u8?id=1938a86s&e=.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYYqBBNwhDTLyF6pbKsGFoQFAErLPcZdcaBg&s" , N Tv
-https://mhdtvplay.com/bdcast/hls/cdn_ytl.m3u8?id=585c7ec4fdc0be4b61470fd86000213e
+https://mhdtvplay.com/bdcast/hls/index.m3u8?id=5149cfic&e=.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrScGuSxAkZ6XrPxFPKx5feE0E17v0bHmNktgMgi-ybovdmwFWs5pL1FU&s=10" , Atn Bangla
+https://mhdtvplay.com/bdcast/hls/index.m3u8?id=ae559a27&e=.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥
 
