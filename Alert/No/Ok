@@ -63,9 +63,9 @@ https://fifabd.xyz/CRIC/master.php?id=d93c1141b93cedf3a3d83dd6776081c1&e=.m3u8
 https://fifabd.xyz/CRIC/master.php?id=07ecfef5e99674d167af5030ccf28854&e=.m3u8
 #EXTINF:-1 tvg-id="957cWb1db00b19387aeb318296adab1d" tvg-name="SuperSport Variety 4" tvg-country="IN" tvg-logo="https://i.postimg.cc/28HnX9zg/Super-Sport-Variety-4.png" tvg-chno="64" group-title="Sports",SuperSport Variety 4
 https://fifabd.xyz/CRIC/master.php?id=957cWb1db00b19387aeb318296adab1d&e=.m3u8
-#EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="SPORTS",MU TV
+#EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="SPORTS",MU TV
+#EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Real Madrid TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
