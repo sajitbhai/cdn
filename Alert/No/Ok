@@ -98,6 +98,73 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥
 
+#EXTINF:-1 group-title="News" tvg-logo="https://i.pinimg.com/736x/48/e5/f3/48e5f3eda1bfa26b345507329d68dc73.jpg" , ABP Anondo
+https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://english.cdn.zeenews.com/static/apprun/livetv/24ghanta1.svg" , Zee 24 Ghonta
+https://dknttpxmr0dwf.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzEwMzM1NjV9.VPcEQ0F4sY-T0_QOG5PlBg9EY1yzY71GVICEZRwe03E
+
+#EXTINF:-1 group-title="News" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-tab-76X55.png?imbypass=1" , Aaj Tak
+https://feeds.intoday.in/aajtak/api/master.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resources/at2logo_97x552x.png" , Aaj Tak 2
+https://feeds.intoday.in/aajtak/api/at2/master.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-hd-126x55.png?imbypass=true", Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png", GNT
+https://feeds.intoday.in/gnt/api/master.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/at-tab-it.png?imbypass=1", India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://static.indiatv.in/khabar-global/images/indiatv-live.png", India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://static.indiatv.in/khabar-global/images/speed-news.png", India Speed News
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatv-speed-internalapp-ono/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.pinimg.com/736x/94/7e/40/947e405ff7b832e61e4c1de5913f51a3.jpg", NDTV India
+https://dai.google.com/linear/hls/pb/event/ZxHLSBVkSRaS26-JQLBCyQ/stream/d649a5c5-721b-4eb0-a13d-6f0e1b5dd638:TPE2/master.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://static.cdnlogo.com/logos/n/63/ndtv-24x7.svg", NDTV 24x7
+https://dai.google.com/linear/hls/pb/event/8BmMXuLuTHS1U3jtBnHmaQ/stream/309e2557-9bd8-4211-a523-2df6aaed94c5:SIN/master.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://exchange4media.gumlet.io/news-photo/109657-abplogo.jpg", ABP News
+https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png?20161119222655", News 18 India
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/TV9_Bharatvarsh.jpeg/revision/latest?cb=20200114073641", TV9 Bharatvarsh
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://english.cdn.zeenews.com/static/apprun/livetv/zeenews.svg", Zee News
+https://dknttpxmr0dwf.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzEwMzM1NjV9.VPcEQ0F4sY-T0_QOG5PlBg9EY1yzY71GVICEZRwe03E
+
+#EXTINF:-1 group-title="News" tvg-logo="https://english.cdn.zeenews.com/static/apprun/livetv/zee-hinduatan.svg", Zee Bharat
+https://dknttpxmr0dwf.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzEwMzM1NjV9.VPcEQ0F4sY-T0_QOG5PlBg9EY1yzY71GVICEZRwe03E
+
+#EXTINF:-1 group-title="News" tvg-logo="https://english.cdn.zeenews.com/pwa-images/ZeeBusiness_logo.svg", Zee Business
+https://dknttpxmr0dwf.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzEwMzM1NjV9.VPcEQ0F4sY-T0_QOG5PlBg9EY1yzY71GVICEZRwe03E
+
+#EXTINF:-1 group-title="News" tvg-logo="https://english.cdn.zeenews.com/static/apprun/livetv/salam.svg", Zee Salam
+https://dknttpxmr0dwf.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzEwMzM1NjV9.VPcEQ0F4sY-T0_QOG5PlBg9EY1yzY71GVICEZRwe03E
+
+#EXTINF:-1 group-title="News" tvg-logo="https://www.cnbctv18.com/static/images/CNBC-TV18-logo-black.png", CNBC TV 18
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://www.cnbctv18.com/static/images/awaz-black.png", CNBC Awaz
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg", News 24
+https://bb4ece8d78fb4e85b0713ee8a3f73e7b.mediatailor.ap-south-1.amazonaws.com/v1/master/8c46099fe45335f63ce7178b3eb4f427ab1d2158/news24-prod-pal/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://sansadtv.nic.in/wp-content/uploads/2022/07/logo-sansad.png", Sansad TV
+https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥
 #EXTINF:-1 group-title="Assam" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/DD_Assam_logo.jpeg" , DD Assam
 http://172.105.123.238:18002/play/a02m
 
