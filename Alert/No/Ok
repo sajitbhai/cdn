@@ -93,6 +93,9 @@ https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwm9pempNLv_aqaEA8s3GBRcSoFbZKtlabLA&s" , Sangeet Bhojpuri
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbNd6fN0L21ZYgbAtkKGaS-t-cqTGfbk0svw&s" , Joo music 
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥
 
 #EXTINF:-1 group-title="Assam" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/DD_Assam_logo.jpeg" , DD Assam
