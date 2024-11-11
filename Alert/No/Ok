@@ -20,6 +20,53 @@ https://mhdtvplay.com/bdcast/hls/index.m3u8?id=5149cfic&e=.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrScGuSxAkZ6XrPxFPKx5feE0E17v0bHmNktgMgi-ybovdmwFWs5pL1FU&s=10" , Atn Bangla
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=ae559a27&e=.m3u8
 
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxiKRo6RtgM2eXjsI4j92BLvQ5xOzWA_hlg&s" ,Bangla Vision
+https://mhdtvplay.com/bdcast/hls/index.m3u8?id=01eabe3c&e=.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" ,Desh Tv
+https://mhdtvplay.com/bdcast/hls/index.m3u8?id=649941fa&e=.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg" , Channel i
+https://mhdtvplay.com/bdcast/hls/index.m3u8?id=vdce53cs&e=.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" , Nexus Tv
+https://cdn.jagobd.com.bd/live-orgin/nexustv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQolXbGZ1z56edcDd0D5eXhaTlMzvvicKBmb4jVp-Da2S8HtmUNroJVVZY&s=10" , R Tv
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQugWyr4OBNYNSTCSNophamU0dzuUQFtI5bgA&usqp=CAU" , Asian Tv
+https://mtlivestream.com/asian/ytlive/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfLnQX7JiVo57dU_V_YHH0z13PodHL8cSN504zFB2zH2r_DB1KjBpmDUs&s=10" , Deepto Tv
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShk9zCESb5O7WCH_o2J0Lzu_NA4Jo9tBghyO75JM6D5DOvWqTGxaTpHYA&s=10" , Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRZBneZXQ24RBPeTxlorOnWHlMbcJ91dt_SQ&s" , MAASRANGA Tv
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" , Anando Tv
+https://mhdtvplay.com/bdcast/hls/index.m3u8?id=zns9eha2&e=.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png" , My Tv
+https://mytvbangla.com/0.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Ekushey_Television_Logo.svg" , E T V
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://www.metvbd.com/media/common/logo-fb.png" , ME TV
+https://iptvbd.live/metv1080/1080.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdTnm8bgxJeXzmHCBbfoEDKdX3_97lrXD_b6iZKT7VDRW8uAUHk4Hvuhs&s=10" , Rajdhani TV
+https://cdn.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcMcWNcflNjmDwQlltqcueBL_hS4X28IYQve6zZdhZorU1WF3WuddrWlw&s=10" , Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyI6hkmqAyV9HmmH76_9trOEuZRCqYb3mxYroWIv02VGHlOL5sg5BwxESo&s=10" , Cumilla Tv
+http://103.149.142.133/0.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://dthlivetv.com/images/channel_icons/mon_tv.png" , Mon Bangla Tv
