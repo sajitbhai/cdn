@@ -10,6 +10,13 @@ https://mhdtvplay.com/bdcast/hls/cdn_ytl.m3u8?id=4193bcd7b265abbc12edbdc7bd19469
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://yt3.googleusercontent.com/5J5NFuXWxr4iUv3nxWF0genblTzZ8wU5N9NjxvZdOKkGs1U3Y_KqrojCJ5Id4N9pFeIZ3uyCKkk=s900-c-k-c0x00ffffff-no-rj" , Independent Tv
 https://mhdtvplay.com/bdcast/hls/cdn_ytl.m3u8?id=3b6ef7a9919b7a66f4cc8991d5caa53d2e1e3dd307ab3d4ae7d4a0d809837b6f
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://yt3.googleusercontent.com/yiwgcUPfyYf8V4c-qsVZPhapgorrsakHepeho14DhgoofFz3VuRP09wnSwL0yVVNejxzzWzCyA=s176-c-k-c0x00ffffff-no-rj-mo" , Sa Tv
+https://mhdtvplay.com/bdcast/hls/cdn_mcast.m3u8?id=d2afce6b5fd672a2d7247184681097514dc8ec62a0db226e947ab82aa2ff87549091beeeb1e5c37653f79434725f165359783834350e9f95cf914708ff818575
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYYqBBNwhDTLyF6pbKsGFoQFAErLPcZdcaBg&s" , N Tv
+https://mhdtvplay.com/bdcast/hls/cdn_ytl.m3u8?id=585c7ec4fdc0be4b61470fd86000213e
+
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://dthlivetv.com/images/channel_icons/mon_tv.png" , Mon Bangla Tv
