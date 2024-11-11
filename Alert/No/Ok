@@ -2,6 +2,32 @@
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://dthlivetv.com/images/channel_icons/mon_tv.png" , Mon Bangla Tv
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz5tyb4rvOKv7XC73SKn-fCXZWGkAQcQsTMQ&s" , Sangeet Bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Desi_Channel.png" , Desi Channel
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF8E1Gq3ZEaBnQ66Ahg10rAtbEVRGqa4MK7VsjvgCj9hQXU-W58eXRGWsu&s=10" , Music India
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://yt3.googleusercontent.com/WZjppjLtHOsZ6J4V18o6rNlWmVnuRm854JJb2gM39hMMGWkHOqQ_ubP2HE0c-FzYgrG1HJJb6nQ=s900-c-k-c0x00ffffff-no-rj" , 9 xM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5PoYLuRBTRrIqg_Te-Lc-EjsCN3bZzBZpUrQyzVITKuzmNBfAwfPXTg&s=10" , 9 x Tashan 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRdDUzn9hv_fcGhgrKkZeCI6qDK9TGGAGyliilwJG6cF6Rg_yGjea7M4M&s=10" , Show Box
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRdDUzn9hv_fcGhgrKkZeCI6qDK9TGGAGyliilwJG6cF6Rg_yGjea7M4M&s=10" , Sangeet Bhojpuri
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥
+
 #EXTINF:-1 group-title="Assam" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/DD_Assam_logo.jpeg" , DD Assam
 http://172.105.123.238:18002/play/a02m
 
