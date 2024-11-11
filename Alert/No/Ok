@@ -6,7 +6,7 @@
 http://172.105.123.238:18002/play/a02m
 
 #EXTINF:-1 group-title="Assam" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Prag_News_logo.jpg" , Prag News
-https://hls.pragnews.com/720/index.m3u8
+https://hls.pragnews.com/master.m3u8
 
 
 
