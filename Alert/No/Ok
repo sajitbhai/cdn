@@ -137,6 +137,40 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyI6hkmqAyV9HmmH76_9trOEuZRCqYb3mxYroWIv02VGHlOL5sg5BwxESo&s=10" , Cumilla Tv
 http://103.149.142.133/0.m3u8
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥
+
+#EXTM3U
+#EXTINF:-1 group-title="India",&pictures HD -Rs 19
+http://39.42.214.73:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="India",&prive HD-Rs 6
+http://39.42.214.73:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="India",Animal PlanetHD-Rs5
+http://39.42.214.73:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="India",HISTORY TV18 HD-Rs7
+http://39.42.214.73:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="India",SONY PIX HD - Rs 19
+http://39.42.214.73:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="India",STAR BHARAT HD-Rs 19
+http://39.42.214.73:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="India",Sony Ten 2 HD-Rs19
+http://39.42.214.73:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="India",SonyBBCearthHD-Rs19
+http://39.42.214.73:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="India",Star GOLD HD -Rs 19
+http://39.42.214.73:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="India",StarGold SelHD-Rs8
+http://39.42.214.73:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="India",StarSportSL1HD-Rs19
+http://39.42.214.73:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="India",StarSportSL2HD-Rs10
+http://39.42.214.73:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="India",ZEE CINEMA HD-Rs 19
+http://39.42.214.73:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="India",colorsInfintyHD-Rs9
+http://39.42.214.73:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="India",nick HD+- Rs 10
+http://39.42.214.73:8000/play/a00h/index.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://dthlivetv.com/images/channel_icons/mon_tv.png" , Mon Bangla Tv
