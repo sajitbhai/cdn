@@ -1,5 +1,5 @@
 NTV
-http://103.175.242.10:8080/ntv/index.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 RTV HD
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
