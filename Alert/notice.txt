@@ -1,1 +1,57 @@
-𝐔𝐏𝐃𝐀𝐓𝐄: 𝘽𝙞𝙜𝙜 𝘽𝙤𝙨𝙨 24𝙃𝙍𝙎 𝙇𝙞𝙫𝙚 𝙖𝙙𝙙𝙚𝙙 ✅
+NTV
+http://103.175.242.10:8080/ntv/index.m3u8
+
+RTV HD
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
+INDEPENDENT TV
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+JAMUNA TV
+https://ythls.armelin.one/channel/UCDj9HHrRUzlsTuPQN0PHxjw.m3u8
+EKUSHEY TV HD
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+Discovery Hindi
+https://freeott.site/discovery/Discovery_Channel.m3u8
+ZEE ZEST HD
+https://la.drmlive.au/tp/zee-348.m3u8
+MY TV HD
+https://mytvbangla.com/0.m3u8
+Star Gold HD
+https://webott.viatv.com.np/v0t1/StarGoldHD.stream/playlist.m3u8
+SONY AATH
+https://shounwifi.net/3/sony_aath.php
+ZEE BANGLA HD
+https://shounwifi.net/api/zee_bangla.php
+STAR JALSHA HD
+http://tv.cloudcdn.me/live.ts?channelId=116&uid=16068&deviceMac=00:1A:79:ED:10:29
+Star Jalsha HD
+http://stream247.live:8080/starjalsha/index.m3u8
+Colors Bangla HD
+https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_HD_voot_MOB
+Colors Bangla
+http://stream247.live:8080/colorsbangla/index.m3u8
+SUN Bangla HD
+http://stream247.live:8080/sunbangla/index.m3u8
+Jalsha Movies SF
+http://103.175.242.10:8080/jalshamovies/index.m3u8
+Zee Bangla Cinema (airte)
+http://103.175.242.10:8080/zeebangla/index.m3u8
+STAR PLUS HD
+https://webott.viatv.com.np/v0t1/StarPlusHD.stream/playlist.m3u8
+STAR BHARAT HD
+https://webott.viatv.com.np/v0t1/StarBharatHD.stream/playlist.m3u8
+Zee Cinema SD
+http://109.61.81.147:2080/cdn2/522/video.m3u8?token=4444
+ANDTV HD
+https://webott.viatv.com.np/v0t1/AndtvHD.stream/playlist.m3u8
+COLORS SD
+http://stvlive.net:8080/colorshd/index.m3u8
+SONY HD
+http://gcp-dash.ngslbs.com/TVD048/index.mpd
+SONY SAB HD
+http://119.156.26.155:8000/play/a075/index.m3u8
+And Picture HD
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
+SONY MAX HD
+http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
+SONY PIX HD
+http://212.102.34.8:9080/SonyPixHD/video.m3u8
